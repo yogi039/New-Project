@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="29856" started-at="2022-02-02T18:04:15Z" finished-at="2022-02-02T18:04:44Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="29856" started-at="2022-02-02T18:04:15Z" finished-at="2022-02-02T18:04:44Z">
+      <class name="org.mobileexecution.MobileExecution">
+        <test-method status="PASS" signature="browserLaunch()[pri:0, instance:org.mobileexecution.MobileExecution@3b0143d3]" name="browserLaunch" is-config="true" duration-ms="3081" started-at="2022-02-02T18:04:15Z" finished-at="2022-02-02T18:04:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunch -->
+        <test-method status="PASS" signature="mobilePage()[pri:0, instance:org.mobileexecution.MobileExecution@3b0143d3]" name="mobilePage" duration-ms="26734" started-at="2022-02-02T18:04:18Z" finished-at="2022-02-02T18:04:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mobilePage -->
+      </class> <!-- org.mobileexecution.MobileExecution -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
